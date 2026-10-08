@@ -3,6 +3,7 @@ website: "Portal Municipal de Celorico da Beira"          # Entre as aspas escre
 date: "13/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-celoricodabeira.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-celoricodabeira.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "10/03/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "CM de Celorico da Beira"         # Entre as aspas escrever o nome do owner do website
 seal: "Bronze"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "10/09/2026 a 10/09/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
